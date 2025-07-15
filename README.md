@@ -34,7 +34,7 @@ Live Demo: [MovieReccomendationSystem Web App](https://moviereccomendationsystem
 |------|-------------|
 | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | Core programming language |
 | ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg) | Data wrangling and manipulation |
-| ![Scikit-Learn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg) | Used `CountVectorizer` and cosine similarity for ML logic |
+| ![Scikit-Learn]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg)) | Used `CountVectorizer` and cosine similarity for ML logic |
 | ![Streamlit](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg) | Frontend UI for rapid web deployment |
 | TMDb API | To fetch poster images for each movie |
 
@@ -46,7 +46,7 @@ The system is built using a **content-based filtering** approach:
 1. **Text Feature Engineering**: Combine `genre`, `keywords`, `cast`, `crew`, and `overview` into a single "tag".
 2. **Vectorization**: Convert text tags to numerical vectors using **CountVectorizer**.
 3. **Similarity Calculation**: Use **cosine similarity** to find how similar two movies are.
-4. **Ranking**: Return top 5 closest movies based on similarity.
+4. **Ranking**: Return top 25 closest movies based on similarity.
 
 ---
 
@@ -56,7 +56,10 @@ The system is built using a **content-based filtering** approach:
 
 | Home Page | Recommendations |
 |-----------|-----------------|
-| ![screenshot](assets/home_screenshot.png) | ![screenshot](assets/recommend_screenshot.png) |
+| ![screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/873ea173-7b90-4143-be18-7262f58036a6" />
+) <img width="1175" height="881" alt="image" src="https://github.com/user-attachments/assets/8abe2bd8-67df-412d-843b-260298be6242" />
+| ![screenshot](![Uploading image.png…]()
+) |
 
 ---
 
@@ -75,7 +78,7 @@ streamlit run app.py
 
 ## 🛰️ Deployed At
 
-✅ [Streamlit Cloud](https://moviereccomendationsystem-9669.streamlit.app/)  
+✅ [Streamlit - Click Here](https://moviereccomendationsystem-9669.streamlit.app/)  
 No setup required. Just open the link and try the recommender!
 
 ---
@@ -108,7 +111,7 @@ No setup required. Just open the link and try the recommender!
 
 If you're interested in collaborating, giving feedback, or just talking about data science — feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-winShaurya-blue?logo=linkedin)](https://www.linkedin.com/in/winshaurya)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-winShaurya-blue?logo=linkedin)](https://www.linkedin.com/in/shaurya-mishra-0b4751204/)  
 [![GitHub](https://img.shields.io/badge/GitHub-winshaurya1-black?logo=github)](https://github.com/winshaurya1)
 
 ---
