@@ -30,13 +30,16 @@ Live Demo: [MovieReccomendationSystem Web App](https://moviereccomendationsystem
 
 ## 🧠 Tech Stack & Tools Used
 
+### 🛠 Tech Stack
+
 | Tech | Description |
 |------|-------------|
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | Core programming language |
-| ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg) | Data wrangling and manipulation |
-| ![Scikit-Learn]<img  alt="image" src="https://github.com/user-attachments/assets/bee0de79-76cc-4816-a68c-52d0eef74a44" />| Used `CountVectorizer` and cosine similarity for ML logic |
-| ![Streamlit](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg) | Frontend UI for rapid web deployment |
-| TMDb API | To fetch poster images for each movie |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python | Core programming language |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20"/> Pandas | Data wrangling and manipulation |
+| <img src="https://github.com/user-attachments/assets/bee0de79-76cc-4816-a68c-52d0eef74a44" width="20" /> Scikit-learn | Used `CountVectorizer` and cosine similarity for ML logic |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="20"/> Streamlit | Frontend UI for rapid web deployment |
+| 🎬 TMDb API | To fetch poster images for each movie |
+
 
 ---
 
