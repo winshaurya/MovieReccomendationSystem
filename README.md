@@ -34,7 +34,8 @@ Live Demo: [MovieReccomendationSystem Web App](https://moviereccomendationsystem
 |------|-------------|
 | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | Core programming language |
 | ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg) | Data wrangling and manipulation |
-| ![Scikit-Learn]([https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg)) | Used `CountVectorizer` and cosine similarity for ML logic |
+| ![Scikit-Learn]<img width="250" height="135" alt="image" src="https://github.com/user-attachments/assets/bee0de79-76cc-4816-a68c-52d0eef74a44" />
+ | Used `CountVectorizer` and cosine similarity for ML logic |
 | ![Streamlit](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg) | Frontend UI for rapid web deployment |
 | TMDb API | To fetch poster images for each movie |
 
@@ -50,16 +51,17 @@ The system is built using a **content-based filtering** approach:
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ UI
 
-> 📌 *Add screenshots of your deployed app here:*
 
-| Home Page | Recommendations |
-|-----------|-----------------|
-| ![screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/873ea173-7b90-4143-be18-7262f58036a6" />
-) <img width="1175" height="881" alt="image" src="https://github.com/user-attachments/assets/8abe2bd8-67df-412d-843b-260298be6242" />
-| ![screenshot](![Uploading image.png…]()
-) |
+
+| Home Page | 
+|-----------|
+|<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/873ea173-7b90-4143-be18-7262f58036a6" /> |
+
+|Recommendations|
+| <img width="1175" height="881" alt="image" src="https://github.com/user-attachments/assets/8abe2bd8-67df-412d-843b-260298be6242" /> |
+
 
 ---
 
