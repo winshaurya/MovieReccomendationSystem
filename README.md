@@ -117,7 +117,7 @@ No setup required. Just open the link and try the recommender!
 If you're interested in collaborating, giving feedback, or just talking about data science — feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-winShaurya-blue?logo=linkedin)](https://www.linkedin.com/in/shaurya-mishra-0b4751204/)  
-[![GitHub](https://img.shields.io/badge/GitHub-winshaurya1-black?logo=github)](https://github.com/winshaurya1)
+[![GitHub](https://img.shields.io/badge/GitHub-winshaurya-black?logo=github)](https://github.com/winshaurya)
 
 ---
 
